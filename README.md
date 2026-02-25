@@ -7,7 +7,7 @@ O projeto foi desenvolvido inteiramente em **Python** utilizando o **Google Cola
 ---
 
 ## 🎯 Objetivo do Projeto
-A Telecom X vem enfrentando um alto índice de perda de clientes. O objetivo desta análise é investigar a base de dados da empresa para identificar padrões de comportamento que levam ao cancelamento do serviço, permitindo que a equipe de negócios crie estratégias de retenção mais eficientes.
+A Telecom X vem enfrentando um alto índice de perda de clientes. O objetivo desta análise é investigar a base de dados da empresa Telecom X para identificar padrões de comportamento que levam ao cancelamento do serviço, permitindo que a equipe de negócios crie estratégias de retenção mais eficientes.
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 * **Linguagem:** Python
